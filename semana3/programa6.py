@@ -28,4 +28,4 @@ lado=float(input("Ingresa el lado ")) # Esta es otra forma con la funcion input,
 
 
 
-print( " El area es de: " , lado * lado ) # Aqui estamos imprimiendo y ejecutanto el valor de lo que queremos saber, en este caso el area 
+print( " El area es de:  " , lado * lado ) # Aqui estamos imprimiendo y ejecutanto el valor de lo que queremos saber, en este caso el area 
