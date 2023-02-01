@@ -1,5 +1,5 @@
 """
-    Programa6
+    Programa6 -
     Nombre:Cesar Ivan Bustamante 
     Herrera
     Fecha:31/01/2023
