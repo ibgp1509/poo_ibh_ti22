@@ -5,6 +5,18 @@
     Descripcion; cometarios multilinea, 
     una linea e impresion de variables
  """
+print("- - - Hola mi amor, te dedico mi mini programa - - -")
 
-variable1= "Hola, Mi nombre es: Cesar Ivan Bustamante Herrera"  #  variable para almacenar una cadena de caracter y que se mostratara en pantalla
-print(variable1)  # Mostrara lo que contiene la variable
+
+
+  dia=input("Escribe el dia: ")
+  if dia == "15" :
+  
+  mes=input("Escribe el mes: ")
+
+  año=input("Escribe el año: ")
+
+  print("Felicidades morchis.... LO LOGRAREMOS JUNTOS")
+
+  elif dia <= "16" :
+print("NO MAMES HAZLO BIEEEEN PTM")
