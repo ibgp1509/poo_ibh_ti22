@@ -4,7 +4,7 @@
     Herrera
     Fecha:13/02/2023
     Descripcion; Programa que ultiliza la clñase Alumno e imprime, nombre,matricula 
-    y carrera
+    y carreraa
 """
 
 class Alumno:
