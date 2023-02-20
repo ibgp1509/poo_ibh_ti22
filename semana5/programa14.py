@@ -14,4 +14,4 @@ class Persona:  #Clase persona
   def setNombre(self,nombre:str) -> None:  # Modifica el valor de la variable
     self.__nombre=nombre # Modifica el valor y ñle asigna el valor del parametro
   def getNombre(self)->str: # Funcion que regresa el valor de la variable
-   return self.__nombre # Regresa el valor de la variable
+    return self.__nombre # Regresa el valor de la variable
