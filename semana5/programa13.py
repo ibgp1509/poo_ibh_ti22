@@ -3,12 +3,12 @@
     Nombre:Cesar Ivan Bustamante 
     Herrera
     Fecha:14/02/2023
-    Descripcion; 11 pruebaas
+    Descripcion; 11 pruebaas para comparacion
 """
 class Persona: #Class Persona
 
  __nombre=None #Variable privada
-__edad=None #Variable privada
+ __edad=None #Variable privada
 
 def __init (self): #constructor de la clase persona
  print ("Persona" )
