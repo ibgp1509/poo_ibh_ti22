@@ -3,7 +3,7 @@
     Nombre:Cesar Ivan Bustamante 
     Herrera
     Fecha:15/02/2023
-    Descripcion; Clase persona
+    Descripcion; Importar clase
 """
 from persona import Persona  # importa la clase persona 
 
